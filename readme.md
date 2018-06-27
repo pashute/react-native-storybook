@@ -1,9 +1,7 @@
 # React Native Storybook
 
-This contents of this repo was moved to the [Storybook monorepo](https://github.com/storybooks/storybook/) and the NPM package name has been changed.
+This repo is out of date and no longer maintained. The package was originally called **@kadira/react-native-storybook**  
 
-- The old name of the package was: **@kadira/react-native-storybook**
-- The new name of the package is: **@storybook/react-native**
-- The location of the code is: https://github.com/storybooks/storybook/tree/master/app/react-native
+A new repo with an updated version of the contents of this package is now called **@storybook/react-native** and can be found at https://github.com/storybooks/storybook/tree/master/app/react-native . Please use that package. 
 
-The repo you're looking at now is out of date and no longer maintained.
+WARNING: The repo you are looking at now is out of date and no longer maintained.
